@@ -5,8 +5,10 @@ This is a starter kit for EVM compatible dapps.
 First, run the development server:
 
 ```bash
+npm run contract:types
 npm run dev
 # or
+yarn contract:types
 yarn dev
 ```
 
